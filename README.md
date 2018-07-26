@@ -8,7 +8,7 @@ Glype是一个科学上网的在线代理工具,你只需要把它放在国外�
 
 ## 截图展示
 
-![修改密码方法](http://fanyi.bdstatic.com/static/translation/img/header/logo_cbfea26.png)![修改密码方法](http://fanyi.bdstatic.com/static/translation/img/header/logo_cbfea26.png)
+![展示图片](https://github.com/zyc10758/glype-hans/blob/master/images/3.jpg?raw=true)![展示图片](https://github.com/zyc10758/glype-hans/blob/master/images/1.jpg?raw=true)
 
 ## 安装方法
 
@@ -18,7 +18,7 @@ Glype是一个科学上网的在线代理工具,你只需要把它放在国外�
 
 **如需修改密码,请修改includes目录下面settings.php第273行,加密方式为md5**
 
-![修改密码方法](http://fanyi.bdstatic.com/static/translation/img/header/logo_cbfea26.png)
+![修改密码方法](https://raw.githubusercontent.com/zyc10758/glype-hans/master/images/44.jpg)
 
 ## install
 
